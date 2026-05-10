@@ -42,5 +42,5 @@ Modern e-commerce application with AI-powered recommendations, Google OAuth auth
 
 ## Links
 
-- Portfolio: https://antoniosifov.com
-- LinkedIn: https://linkedin.com/in/anton-iosifov
+- [Portfolio](https://antoniosifov.com)
+- [LinkedIn](https://linkedin.com/in/anton-iosifov)
