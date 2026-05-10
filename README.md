@@ -24,12 +24,14 @@ Multilingual commercial real-estate platform built with Next.js, React, Sanity C
 
 🔗 Live Demo: https://www.seacret-residence.com/
 
+----
 
 ### Factory Management System
 AI-powered employee management and shift scheduling platform built with React, TypeScript, Node.js, MongoDB, and OpenAI API.
 
 🔗 Live Demo: https://factory-management-system-eight.vercel.app/
 
+----
 
 ### Full-Stack E-Commerce Platform
 Modern e-commerce application with AI-powered recommendations, Google OAuth authentication, admin dashboard, analytics, and full-stack architecture.
