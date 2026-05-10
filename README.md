@@ -5,7 +5,7 @@ Currently focused on AI integrations, full-stack product engineering, and scalab
 
 ## Tech Stack
 
-React • TypeScript • Node.js • Next.js • MongoDB • PHP (Laravel) • Java • Docker • REST APIs • Supabase
+React • TypeScript • Node.js • Next.js • MongoDB • PHP (Laravel) • Java • Docker • REST APIs
 
 <br>
 
