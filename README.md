@@ -15,7 +15,7 @@ Full-Stack Software Engineer building modern web, mobile, and AI-powered product
 - REST APIs
 - Supabase
 
----
+<br>
 
 ## Featured Projects
 
@@ -33,6 +33,7 @@ AI-powered employee management and shift scheduling platform built with React, T
 Modern e-commerce application with AI-powered recommendations, Google OAuth authentication, admin dashboard, analytics, and full-stack architecture.
 🔗 Live Demo: https://e-commerce-ski.vercel.app/
 
+<br>
 
 ## Links
 
