@@ -1,16 +1,33 @@
-## Hi there 👋
+# Anton Iosifov
 
-<!--
-**antonbroker/antonbroker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer building modern web, mobile, and AI-powered products.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- Node.js
+- Next.js
+- MongoDB
+- PHP (Laravel)
+- Java
+- Docker
+- REST APIs
+- Supabase
+
+## Featured Projects
+
+### Seacret Residence
+Multilingual commercial real-estate platform built with Next.js, React, Sanity CMS, analytics integrations, and production-ready architecture.
+
+### Factory Management System
+AI-powered employee management and shift scheduling platform built with React, TypeScript, Node.js, MongoDB, and OpenAI API.
+
+### Full-Stack E-Commerce Platform
+Modern e-commerce application with AI-powered recommendations, Google OAuth authentication, admin dashboard, analytics, and full-stack architecture.
+
+
+## Links
+
+- Portfolio: https://antoniosifov.com
+- LinkedIn: https://linkedin.com/in/anton-iosifov
