@@ -1,6 +1,7 @@
 # Anton Iosifov
 
 Full-Stack Software Engineer building modern web, mobile, and AI-powered products.
+Currently focused on AI integrations, full-stack product engineering, and scalable modern applications.
 
 ## Tech Stack
 
